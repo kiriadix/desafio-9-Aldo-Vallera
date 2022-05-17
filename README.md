@@ -1,7 +1,7 @@
 # desafio-9-Aldo-Vallera
 Noveno desafio Coder House desarrollo web 36030
-index// "Agregué estas keywords: ", "Agregué esta descripción:"
-servicios// "Agregué estas keywords: ", "Agregué esta descripción:"
-restreo// "Agregué estas keywords: ", "Agregué esta descripción:"
-env_flex// "Agregué estas keywords: ", "Agregué esta descripción:"
-costos// "Agregué estas keywords: ", "Agregué esta descripción:"
+index// "Agregué estas keywords: MERCADO LIBRE, MERCADO ENVIOS, CADETERIA, FLETES, ENCOMIENDAS, VALLEGAR, ENVIO FLEX, URUGUAY, MONTEVIDEO, FLETES MONTEVIDEO", "Agregué esta descripción: Somos una empresa con el mayor respaldado y tecnologías especialistas en la realizacion de entregas de mercado envíos flex"
+servicios// "Agregué estas keywords: MERCADO LIBRE, MERCADO ENVIOS, CADETERIA, FLETES, ENCOMIENDAS, VALLEGAR, ENVIO FLEX, URUGUAY, MONTEVIDEO, FLETES MONTEVIDEO, INTEGRACION MERCADO LIBRE, INTEGRADOR", "Agregué esta descripción: Brindamos servicio de reparto a domicilio de compras on-line con especializacion en Mercado Envíos"
+restreo// "Agregué estas keywords: RASTREO VALLEGAR, VALLEGAR, RASTREO MERCADO LIBRE, RASTREO MERCADO ENVIOS, SEGUIMIENTO MERCADO ENVIOS, SEGUIMIENTO, SEGUIMIENTO VALLEGAR, SEGUIMIENTO ENVIO FLEX, MERCADO LIBRE, MERCADO ENVIOS", "Agregué esta descripción: Realiza el seguimiento de tus pedidos en todo momento a traves de nuestra seccion de rastreo"
+env_flex// "Agregué estas keywords: MERCADO LIBRE, MERCADO ENVIOS, ENVIO FLEX, VALLEGAR, ENVIOS VALLEGAR", "Agregué esta descripción: Mercado envios es un recurso para compradores y vendedores con el que se pueden agilizar las entregas y dar una mayor informacion y seguridad a los usuarios"
+costos// "Agregué estas keywords: VALLEGAR, OFERTAS, BUEN PRECIO, FLETES ECONOMICOS, FLETES BARATOS, MERCADO ENVIOS, ENVIO FLEX, MERCADO LIBRE, ENVIOS ECONOMICOS, ENVIOS BARATOS, ENVIOS MERCADO LIBRE", "Agregué esta descripción:"
